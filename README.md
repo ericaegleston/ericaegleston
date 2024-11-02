@@ -1,7 +1,7 @@
 ### Hi, I'm Erica!
 
-✦ I'm a senior at Brandeis University, majoring Computer Science and History and minoring in Arabic Language, Literature and Culture
-✧ Concentrating in computational linguistics, with particular interest in text processing and computer vision
+- ✦ I'm a senior at Brandeis University, majoring Computer Science and History and minoring in Arabic Language, Literature and Culture
+- ✧ Concentrating in computational linguistics, with particular interest in text processing and computer vision
 <!--
 **ericaegleston/ericaegleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
